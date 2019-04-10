@@ -1,0 +1,9 @@
+Building Yatracoin
+
+See doc/readme-qt.rst for instructions on building Yatracoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Yatracoin.
+
+See doc/build-*.txt for instructions on building yatracoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Yatracoin.
